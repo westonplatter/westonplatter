@@ -6,10 +6,6 @@ I love writing code and crafting solutions for the specific problem at hand. As 
 
 ## Open Source Projects
 
-### phashion
-
-- **[phashion](https://github.com/westonplatter/phashion)** -- Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files. (700+ stars)
-
 ### Quant Finance
 
 - **[nextgentr8der](https://github.com/westonplatter/nextgentr8der)** -- Automate and systematize multi-strategy operations across equities, commodities, and vol markets.
@@ -26,3 +22,7 @@ I love writing code and crafting solutions for the specific problem at hand. As 
 
 - **[aps](https://github.com/westonplatter/aps)** -- Compose and sync your own collection of AGENTS.md, skills, and other agentic prompts. Written in Rust.
 - **[agentically](https://github.com/westonplatter/agentically)** -- Personal collection of AGENTS.md partials, Agent Skills, and other related prompts.
+
+### phashion
+
+- **[phashion](https://github.com/westonplatter/phashion)** -- Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files. (700+ stars)
