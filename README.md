@@ -9,7 +9,7 @@ I love writing code and crafting solutions for the specific problem at hand. As 
 ### Quant Finance
 
 - **[nextgentr8der](https://github.com/westonplatter/nextgentr8der)** -- Automate and systematize multi-strategy operations across equities, commodities, and vol markets.
-- **[fast_arrow](https://github.com/westonplatter/fast_arrow)** -- Python API client for Robinhood covering stocks, options, and portfolio management. Archived. (125+ stars)
+- **[fast_arrow](https://github.com/westonplatter/fast_arrow)** -- Python API client for Robinhood covering stocks, options, and portfolio management. Archived. (archived)
 - **[ib_insync_options](https://github.com/westonplatter/ib_insync_options)** -- Download option chain data from IBKR using ib_insync. Works with future options.
 - **[ngv_reports_ibkr](https://github.com/westonplatter/ngv_reports_ibkr)** -- Custom reporting from Interactive Brokers Flex Statements.
 
@@ -25,4 +25,4 @@ I love writing code and crafting solutions for the specific problem at hand. As 
 
 ### phashion
 
-- **[phashion](https://github.com/westonplatter/phashion)** -- Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files. (700+ stars)
+- **[phashion](https://github.com/westonplatter/phashion)** -- Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
