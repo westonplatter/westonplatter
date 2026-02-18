@@ -1,10 +1,8 @@
 # Hi, I'm Weston
 
-I work on Infrastructure projects at [Masterpoint Consulting](https://github.com/masterpointio). We're incredibly at helping clients think about and implement IaC at scale. 
+I work on Infrastructure projects at [Masterpoint Consulting](https://github.com/masterpointio). We're experienced at helping clients think about, refactor, and implement IaC at scale.
 
-I love writing code and crafting a solution for the specific problem at hand.
-
-As a former quant developer, I still enjoy working with options, futures, volatility risk data.
+I love writing code and crafting solutions for the specific problem at hand. As a former quant developer, I still enjoy working with options, futures, volatility risk data (checkout [nextgentr8der](https://github.com/westonplatter/nextgentr8der)!).
 
 ## Open Source Projects
 
@@ -23,6 +21,7 @@ As a former quant developer, I still enjoy working with options, futures, volati
 ### AI & Agents
 
 - **[aps](https://github.com/westonplatter/aps)** -- Compose and sync your own collection of AGENTS.md, skills, and other agentic prompts. Written in Rust.
+- **[nextgentr8der](https://github.com/westonplatter/nextgentr8der) ** -- Project to automate and systematize trade and portfolio mangement operations when running multiple strategies across the equities, commodities, and vol markets.
 
 ## Connect
 
