@@ -25,3 +25,4 @@ I love writing code and crafting solutions for the specific problem at hand. As 
 ### AI Tooling
 
 - **[aps](https://github.com/westonplatter/aps)** -- Compose and sync your own collection of AGENTS.md, skills, and other agentic prompts. Written in Rust.
+- **[agentically](https://github.com/westonplatter/agentically)** -- Personal collection of AGENTS.md partials, Agent Skills, and other related prompts.
