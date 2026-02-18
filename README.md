@@ -6,7 +6,7 @@ I love writing code and crafting solutions for the specific problem at hand. As 
 
 ## Open Source Projects
 
-### Perceptual Hashing
+### phashion
 
 - **[phashion](https://github.com/westonplatter/phashion)** -- Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files. (700+ stars)
 
