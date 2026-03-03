@@ -1,5 +1,3 @@
-# Hi, I'm Weston
-
 I work on Infrastructure projects at [Masterpoint Consulting](https://github.com/masterpointio). We're experienced at helping clients think about, revise, and implement their Infrastucture as Code at scale.
 
 I love writing code and crafting solutions for the specific problem at hand. As a former quant developer, I still enjoy working with options, futures, volatility risk data (checkout [nextgentrader](https://github.com/westonplatter/nextgentrader)!).
