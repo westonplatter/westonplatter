@@ -1,4 +1,4 @@
-I work on Terraform + IAC at [Masterpoint Consulting](https://github.com/masterpointio). We help clients think about, refine, and implement their Infrastucture as Code at scale.
+I work at [Masterpoint Consulting](https://github.com/masterpointio). We help clients think about, refine, and implement their Infrastucture as Code at scale.
 
 Outside of Masterpoint, I still enjoy working with options, futures, volatility risk data (checkout [ngv-trader](https://github.com/westonplatter/ngv-trader)).
 
