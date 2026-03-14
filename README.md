@@ -1,12 +1,12 @@
-I work on Infrastructure projects at [Masterpoint Consulting](https://github.com/masterpointio). We're experienced at helping clients think about, revise, and implement their Infrastucture as Code at scale.
+I work on Terraform + IAC at [Masterpoint Consulting](https://github.com/masterpointio). We help clients think about, refine, and implement their Infrastucture as Code at scale.
 
-I love writing code and crafting solutions for the specific problem at hand. As a former quant developer, I still enjoy working with options, futures, volatility risk data (checkout [nextgentrader](https://github.com/westonplatter/nextgentrader)!).
+Outside of Masterpoint, I still enjoy working with options, futures, volatility risk data (checkout [ngv-trader](https://github.com/westonplatter/ngv-trader)).
 
 ## Open Source Projects
 
 ### Quant Finance
 
-- **[nextgentrader](https://github.com/westonplatter/nextgentrader)** -- Automate and systematize multi-strategy operations across equities, commodities, and vol markets.
+- **[ngv-trader](https://github.com/westonplatter/ngv-trader)** -- Automate and systematize multi-strategy operations across equities, commodities, and vol markets.
 - **[fast_arrow](https://github.com/westonplatter/fast_arrow)** -- Python API client for Robinhood covering stocks, options, and portfolio management. (Archived)
 - **[ib_insync_options](https://github.com/westonplatter/ib_insync_options)** -- Download option chain data from IBKR using ib_insync. Works with future options.
 - **[ngv_reports_ibkr](https://github.com/westonplatter/ngv_reports_ibkr)** -- Custom reporting from Interactive Brokers Flex Statements.
