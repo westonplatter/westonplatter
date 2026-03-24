@@ -2,7 +2,7 @@ I work at [Masterpoint Consulting](https://github.com/masterpointio). We help cl
 
 Outside of Masterpoint, I still enjoy working with options, futures, volatility risk data (checkout [ngv-trader](https://github.com/westonplatter/ngv-trader)).
 
-## Open Source Projects
+## Open Source Projects I've Contributed To
 
 ### Quant Finance
 
