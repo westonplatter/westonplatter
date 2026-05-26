@@ -1,12 +1,13 @@
 I work at [Masterpoint Consulting](https://github.com/masterpointio). We help clients think about, refine, and implement their Infrastucture as Code at scale.
 
-Outside of Masterpoint, I still enjoy working with options, futures, volatility risk data (checkout [ngv-trader](https://github.com/westonplatter/ngv-trader)).
+Outside of Masterpoint, I still enjoy working with options, futures, volatility risk data (checkout [ngv-trader](https://github.com/westonplatter/ngv-trader) and [ngv_opx](https://github.com/westonplatter/ngv_opx)).
 
 ## Open Source projects I've worked on
 
 ### Quant Finance
 
 - **[ngv-trader](https://github.com/westonplatter/ngv-trader)** -- Automate and systematize multi-strategy operations across equities, commodities, and vol markets.
+- **[ngv_opx](https://github.com/westonplatter/ngv_opx)** -- Super fast option pricing engine written in rust with python and javascript bindings (alpha).
 - **[ngv-plugins](https://github.com/westonplatter/ngv-plugins)** -- Claude Code plugins to develop and run a quant trading desk.
 - **[fast_arrow](https://github.com/westonplatter/fast_arrow)** -- Python API client for Robinhood covering stocks, options, and portfolio management. (Archived)
 - **[ib_insync_options](https://github.com/westonplatter/ib_insync_options)** -- Download option chain data from IBKR using ib_insync. Works with future options.
