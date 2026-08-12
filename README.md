@@ -4,7 +4,7 @@ Outside of my full-time job, I'm enjoying the LLM renaissance and applying a beg
 
 ### Quant Finance
 
-- **[ngv-trader](https://github.com/westonplatter/ngv-trader)** -- Automate and systematize multi-strategy operations across equities, commodities, and vol markets.
+- **[ngv-trader](https://github.com/westonplatter/ngv-trader)** -- Systems for running multi-strategy operations across equities, commodities, and vol markets.
 - **[ngv_opx](https://github.com/westonplatter/ngv_opx)** -- Super fast option pricing engine written in rust with language bindings for: python, javascript (alpha).
 - **[ib_insync_options](https://github.com/westonplatter/ib_insync_options)** -- Download option chain data from IBKR using ib_insync. Works with future options.
 - **[ngv_reports_ibkr](https://github.com/westonplatter/ngv_reports_ibkr)** -- Custom reporting from Interactive Brokers Flex Statements.
