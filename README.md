@@ -1,8 +1,6 @@
-I work at [Masterpoint Consulting](https://github.com/masterpointio). We help clients think about, refine, and implement their Infrastucture as Code at scale.
+I work full-time at [Masterpoint Consulting](https://github.com/masterpointio) helping clients think about, refine, and implement their Infrastructure as Code, and take Data Infra and Engineering work.
 
-Outside of Masterpoint, I still enjoy working with options, futures, volatility risk data (checkout [ngv-trader](https://github.com/westonplatter/ngv-trader) and [ngv_opx](https://github.com/westonplatter/ngv_opx)).
-
-## Open Source projects
+Outside of my full-time job, I'm enjoying the LLM renaissance and applying a beginner's mindset to learning how create patterns and agentic processes to take on software and infra changes. I learn the most by seeing what works and what fails in marvelous style (failure is a better teacher than success). The following projects are places I've actively letting myself and the the agentic devs try things out. 
 
 ### Quant Finance
 
