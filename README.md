@@ -6,8 +6,8 @@ Outside of my full-time job, I'm enjoying the LLM renaissance and applying a **b
 
 - **[ngv-trader](https://github.com/westonplatter/ngv-trader)** -- My personal system for running Hedge Fund like strategies across equities, commodities, and vol markets.
 - **[ngv_opx](https://github.com/westonplatter/ngv_opx)** -- Super fast option pricing engine written in rust with language bindings for: python, javascript (alpha).
-- **[ib_insync_options](https://github.com/westonplatter/ib_insync_options)** -- Download option chain data from IBKR using ib_insync. Works with future options.
-- **[ngv_reports_ibkr](https://github.com/westonplatter/ngv_reports_ibkr)** -- Custom reporting from Interactive Brokers Flex Statements.
+- **[ib_insync_options](https://github.com/westonplatter/ib_insync_options)** -- Download option chain data from [IBKR](https://www.interactivebrokers.com/) using [ib_async](https://github.com/ib-api-reloaded/ib_async). Works with future options.
+- **[ngv_reports_ibkr](https://github.com/westonplatter/ngv_reports_ibkr)** -- Custom reporting from [Interactive Brokers](https://www.interactivebrokers.com/) Flex Statements.
 - **[fast_arrow](https://github.com/westonplatter/fast_arrow)** -- Python API client for Robinhood covering stocks, options, and portfolio management. (Archived)
 
 ### Infrastructure as Code
