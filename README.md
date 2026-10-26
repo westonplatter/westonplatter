@@ -12,8 +12,8 @@ Outside of my full-time job, I'm enjoying the LLM renaissance and applying a **b
 
 ### Infrastructure as Code
 
-- **[terraform-postgres-config-dbs-users-roles](https://github.com/masterpointio/terraform-postgres-config-dbs-users-roles)** -- TF module for Postgres (Logical) DBs, Users, & Roles.
-- **[terraform-googleworkspace-users-groups-automation](https://github.com/masterpointio/terraform-googleworkspace-users-groups-automation)** -- TF module to manage googleworkspaces.
+- **[postgres-config-dbs-users-roles](https://github.com/masterpointio/terraform-postgres-config-dbs-users-roles)** -- TF module for Postgres (Logical) DBs, Users, & Roles.
+- **[googleworkspace-users-groups-automation](https://github.com/masterpointio/terraform-googleworkspace-users-groups-automation)** -- TF module to manage googleworkspaces.
 
 ### phashion
 
